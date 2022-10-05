@@ -1,1 +1,1 @@
-export {default as image} from './LearnigLabOficial.png'
+export {default as image} from './study.png'
